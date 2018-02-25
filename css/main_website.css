@@ -1,7 +1,7 @@
 
 
 .intro {
-  background-color: white;
+  background-color: rgba(217, 217, 217, 0.85);
 
 }
 .whole_page {
@@ -19,6 +19,16 @@
   opacity: 1.0;
 }
 
+h1 {
+  color: rgba(255, 0, 0, 0.5);
+}
+h2 {
+  color: rgba(255, 0, 0, 0.5);
+}
+p {
+  color: rgba(86, 86, 87, 1);
+}
+
 .btn-twitter {
   background: #00ce;
   border-color: #009ad5;
@@ -31,17 +41,23 @@
   background: #b62f26;
   border-color: #b62f26;
 }
+
 #social-buttons button {
   color: white;
-  padding-bottom: 10px;
 }
 
 
 .email {
   text-align: center;
   padding: 10px;
+  background: rgba(114, 135, 140, 0.6);
 }
 .subscribe {
   color: white;
   font-size: 20px;
+  padding-bottom: 10px;
+}
+
+#weird-text {
+  padding-bottom: 20px;
 }

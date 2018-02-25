@@ -1,0 +1,41 @@
+
+.Intro_trips {
+  text-align: center;
+}
+
+.Arran {
+  text-align: center;
+  padding-bottom: 10px;
+}
+
+
+.btn-default {
+    background-color: white;
+    color: rgba(255, 0, 0, 0.5);
+    border-color: rgba(255, 0, 0, 0.5);
+    }
+    .btn-default:hover,
+    .btn-default:focus,
+    .btn-default:active    {
+        background-color: rgba(255, 0, 0, 0.5);
+        color: white;
+        border-color: rgba(255, 0, 0, 0.5);
+    }
+
+.Loch_lomond {
+  text-align: center;
+  padding-bottom: 10px;
+}
+
+.Edinburgh {
+  text-align: center;
+  padding-bottom: 10px;
+}
+
+ h1 {
+   color: rgba(255, 0, 0, 0.5);
+ }
+
+ p {
+   color: rgba(86, 86, 87, 1);
+ }
