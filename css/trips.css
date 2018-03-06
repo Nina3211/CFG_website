@@ -1,3 +1,7 @@
+.navbar-custom {
+  background-color: rgba(86, 86, 87, 1);
+  border-color: rgba(86, 86, 87, 1);
+}
 
 .Intro_trips {
   text-align: center;
@@ -22,9 +26,13 @@
         border-color: rgba(255, 0, 0, 0.5);
     }
 
+.responsive {
+  max-width: 100%;
+  height: auto;
+}
 .Loch_lomond {
   text-align: center;
-  padding-bottom: 10px;
+  padding-bottom: 20px;
 }
 
 .Edinburgh {

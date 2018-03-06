@@ -1,7 +1,10 @@
-
+.navbar-custom {
+  background-color: rgba(86, 86, 87, 1);
+  border-color: rgba(86, 86, 87, 1);
+}
 
 .intro {
-  background-color: rgba(217, 217, 217, 0.85);
+  background-color: rgba(255, 255, 255, 0.8);
 
 }
 .whole_page {
@@ -12,7 +15,6 @@
   text-align: center;
 }
 
-}
 #header {
   font-size: 60px;
   color: black;
@@ -50,8 +52,10 @@ p {
 .email {
   text-align: center;
   padding: 10px;
-  background: rgba(114, 135, 140, 0.6);
+  background: rgba(114, 135, 140, 0.75);
 }
+
+
 .subscribe {
   color: white;
   font-size: 20px;
