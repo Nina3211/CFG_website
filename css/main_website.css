@@ -1,18 +1,24 @@
-.navbar-custom {
-  background-color: rgba(86, 86, 87, 1);
-  border-color: rgba(86, 86, 87, 1);
-}
 
 .intro {
   background-color: rgba(255, 255, 255, 0.8);
 
 }
-.whole_page {
-  background-image: url('../images/map-glasgow.jpg');
-  background-size: cover;
-  background-attachment: fixed;
-  min-height: 600px;
-  text-align: center;
+
+.navbar-custom {
+  background-color: rgba(86, 86, 87, 1);
+  border-color: rgba(86, 86, 87, 1);
+}
+
+body {
+    background: url("http://www.british-coast-maps.com/map-glasgow.jpg");
+    background-position: center;
+    background-attachment: fixed;
+
+}
+
+.img {
+  border:10px;
+  border-color: white;
 }
 
 #header {
@@ -20,6 +26,22 @@
   color: black;
   opacity: 1.0;
 }
+
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 40px;
+    font-weight: bold;
+    color: rgba(255, 255, 255, 0.8)
+}
+
 
 h1 {
   color: rgba(255, 0, 0, 0.5);
@@ -46,13 +68,19 @@ p {
 
 #social-buttons button {
   color: white;
+  padding-bottom: 10px;
+  padding-top: 10px;
 }
 
-
+.social {
+  padding: 10px;
+}
 .email {
   text-align: center;
   padding: 10px;
-  background: rgba(114, 135, 140, 0.75);
+  padding-bottom: 10px;
+  background: rgba(211,211,211, 0.8);
+  color: white;
 }
 
 
@@ -62,6 +90,6 @@ p {
   padding-bottom: 10px;
 }
 
-#weird-text {
+.text-center {
   padding-bottom: 20px;
 }
