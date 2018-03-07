@@ -1,0 +1,57 @@
+.navbar-custom {
+  background-color: rgba(86, 86, 87, 1);
+  border-color: rgba(86, 86, 87, 1);
+}
+
+.navbar {
+  position: fixed;
+  top: 0; /* Position the navbar at the top of the page */
+  width: 100%;
+  z-index: 99999;
+}
+
+.Intro_day {
+  text-align: center;
+  margin-top: 60px;
+}
+
+.University {
+  text-align: center;
+  padding-bottom: 10px;
+}
+
+
+.btn-default {
+    background-color: white;
+    color: rgba(255, 0, 0, 0.5);
+    border-color: rgba(255, 0, 0, 0.5);
+    }
+    .btn-default:hover,
+    .btn-default:focus,
+    .btn-default:active    {
+        background-color: rgba(255, 0, 0, 0.5);
+        color: white;
+        border-color: rgba(255, 0, 0, 0.5);
+    }
+
+.responsive {
+  max-width: 100%;
+  height: auto;
+}
+.Kelvingrove {
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+.Science {
+  text-align: center;
+  padding-bottom: 10px;
+}
+
+ h1 {
+   color: rgba(255, 0, 0, 0.5);
+ }
+
+ p {
+   color: rgba(86, 86, 87, 1);
+ }
