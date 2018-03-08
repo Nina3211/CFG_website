@@ -76,3 +76,7 @@ p {
 .text-center {
   padding-bottom: 20px;
 }
+
+.sub {
+  color: rgba(255, 0, 0, 0.5);
+}

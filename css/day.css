@@ -1,3 +1,7 @@
+* {
+  font-family: 'Lora', serif;
+}
+
 .navbar-custom {
   background-color: rgba(86, 86, 87, 1);
   border-color: rgba(86, 86, 87, 1);
@@ -54,4 +58,5 @@
 
  p {
    color: rgba(86, 86, 87, 1);
+   font-size: 20px;
  }

@@ -1,5 +1,5 @@
 body {
-  font-family: 'Karma';
+  font-family: 'Lora', serif;
 }
 
 .navbar-custom {
@@ -54,8 +54,29 @@ body {
 
  h1 {
    color: rgba(255, 0, 0, 0.5);
+   font-weight: bold;
+   font-size: 60px;
  }
+
+h2 {
+  color: rgba(255, 0, 0, 0.5);
+  font-weight: bold;
+  font-size: 40px;  
+}
 
  p {
    color: rgba(86, 86, 87, 1);
+   font-size: 20px;
  }
+
+.Arran {
+  padding: 20px;
+}
+
+.Loch {
+  padding: 20px;
+}
+
+.Edin {
+  padding: 20px;
+}
