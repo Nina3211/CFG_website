@@ -3,8 +3,16 @@
   border-color: rgba(86, 86, 87, 1);
 }
 
+.navbar {
+  position: fixed;
+  top:0;
+  width: 100%;
+  z-index: 99999;
+}
+
 .Intro_trips {
   text-align: center;
+  margin-top: 60px;
 }
 
 .Arran {
