@@ -1,4 +1,6 @@
-
+* {
+  font-family: 'Karma'; 
+}
 .intro {
   background-color: rgba(255, 255, 255, 0.8);
 
@@ -54,28 +56,7 @@ p {
   color: rgba(86, 86, 87, 1);
 }
 
-.btn-twitter {
-  background: #00ce;
-  border-color: #009ad5;
-}
-.btn-facebook {
-  background: #4868ac;
-  border-color: #314776;
-}
-.btn-pinterest {
-  background: #b62f26;
-  border-color: #b62f26;
-}
 
-#social-buttons button {
-  color: white;
-  padding-bottom: 10px;
-  padding-top: 10px;
-}
-
-.social {
-  padding: 10px;
-}
 .email {
   text-align: center;
   padding: 10px;

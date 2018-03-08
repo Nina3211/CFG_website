@@ -1,3 +1,7 @@
+* {
+  font-family: 'Karma';
+}
+
 .navbar-custom {
   background-color: rgba(86, 86, 87, 1);
   border-color: rgba(86, 86, 87, 1);
