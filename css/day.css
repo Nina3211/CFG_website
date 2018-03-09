@@ -7,6 +7,9 @@
   border-color: rgba(86, 86, 87, 1);
 }
 
+.navbar-custom .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+color: lightCoral;
+}
 .navbar {
   position: fixed;
   top: 0; /* Position the navbar at the top of the page */
@@ -52,11 +55,19 @@
   padding-bottom: 10px;
 }
 
- h1 {
-   color: rgba(255, 0, 0, 0.5);
- }
+h1 {
+  color: rgba(255, 0, 0, 0.5);
+  font-weight: bold;
+  font-size: 60px;
+}
 
- p {
-   color: rgba(86, 86, 87, 1);
-   font-size: 20px;
- }
+h2 {
+ color: rgba(255, 0, 0, 0.5);
+ font-weight: bold;
+ font-size: 40px;
+}
+
+p {
+  color: rgba(86, 86, 87, 1);
+  font-size: 20px;
+}

@@ -7,6 +7,10 @@ body {
   border-color: rgba(86, 86, 87, 1);
 }
 
+.navbar-custom .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+color: lightCoral;
+}
+
 .navbar {
   position: fixed;
   top:0;
@@ -61,7 +65,7 @@ body {
 h2 {
   color: rgba(255, 0, 0, 0.5);
   font-weight: bold;
-  font-size: 40px;  
+  font-size: 40px;
 }
 
  p {
@@ -72,6 +76,7 @@ h2 {
 .Arran {
   padding: 20px;
 }
+
 
 .Loch {
   padding: 20px;

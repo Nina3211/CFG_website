@@ -1,10 +1,11 @@
 * {
   font-family: 'Lora', serif;
 }
+
+
 .intro {
   background-color: rgba(255, 255, 255, 0.8);
   padding: 20px;
-
 }
 
 .navbar-custom {
@@ -12,6 +13,9 @@
   border-color: rgba(86, 86, 87, 1);
 }
 
+.navbar-custom .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+color: lightCoral;
+}
 
 body {
     background: url("http://www.british-coast-maps.com/map-glasgow.jpg");
@@ -20,10 +24,6 @@ body {
 
 }
 
-.img {
-  border:10px;
-  border-color: white;
-}
 
 .container {
     position: relative;
