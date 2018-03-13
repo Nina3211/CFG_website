@@ -21,14 +21,16 @@ body {
     background: url("http://www.british-coast-maps.com/map-glasgow.jpg");
     background-position: center;
     background-attachment: fixed;
+    text-align: center;
 
 }
 
 
-.container {
+.text {
     position: relative;
     text-align: center;
     color: white;
+    margin-top: 20px;
 }
 .centered {
     position: absolute;
@@ -41,8 +43,8 @@ body {
 }
 
 .pictures {
-  padding-top: 10px;
-  padding-bottom: 10px;
+  margin-top: 20px;
+
 }
 
 h1 {
@@ -60,23 +62,23 @@ p {
 
 .email {
   text-align: center;
-  padding: 10px;
-  padding-bottom: 10px;
+  padding: 20px;
   background: rgba(211,211,211, 0.8);
   color: white;
+  margin-top: 20px;
 }
 
 
 .subscribe {
   color: white;
   font-size: 20px;
-  padding-bottom: 10px;
 }
 
-.text-center {
-  padding-bottom: 20px;
-}
 
 .sub {
   color: rgba(255, 0, 0, 0.5);
+}
+
+.bg-img1 {
+  margin-bottom: 20px;
 }
