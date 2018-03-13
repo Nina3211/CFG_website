@@ -44,7 +44,9 @@ body {
 
 .pictures {
   margin-top: 20px;
-
+}
+.img-responsive {
+  padding-bottom: 10px;
 }
 
 h1 {
