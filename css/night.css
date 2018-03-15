@@ -1,0 +1,78 @@
+* {
+  font-family: 'Lora', serif;
+}
+
+.navbar-custom {
+  background-color: rgba(86, 86, 87, 1);
+  border-color: rgba(86, 86, 87, 1);
+}
+
+.navbar-custom .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+color: lightCoral;
+}
+.navbar {
+  position: fixed;
+  top: 0; /* Position the navbar at the top of the page */
+  width: 100%;
+  z-index: 99999;
+}
+
+.Intro_night {
+  text-align: center;
+  margin-top: 60px;
+}
+
+.Tingle {
+  text-align: center;
+  padding-bottom: 10px;
+}
+
+.The_Corinthian_Club {
+  text-align: center;
+  padding-bottom: 10px;
+}
+
+.Boteco_do_Brasil {
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+.btn-default {
+    background-color: white;
+    color: rgba(255, 0, 0, 0.5);
+    border-color: rgba(255, 0, 0, 0.5);
+    }
+    .btn-default:hover,
+    .btn-default:focus,
+    .btn-default:active    {
+        background-color: rgba(255, 0, 0, 0.5);
+        color: white;
+        border-color: rgba(255, 0, 0, 0.5);
+    }
+
+.responsive {
+  max-width: 100%;
+  height: auto;
+}
+
+.bg {
+  width:100%;
+  z-index:0;
+}
+
+h1 {
+  color: rgba(255, 0, 0, 0.5);
+  font-weight: bold;
+  font-size: 60px;
+}
+
+h2 {
+ color: rgba(255, 0, 0, 0.5);
+ font-weight: bold;
+ font-size: 40px;
+}
+
+p {
+  color: rgba(86, 86, 87, 1);
+  font-size: 20px;
+}
